@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2NZQP92GPS.com.mappy97.hhntracker"
+        ],
+        "components": [
+          {
+            "/": "/u/*",
+            "comment": "A profile link, frightfolio.app/u/#username"
+          }
+        ]
+      }
+    ]
+  }
+}
