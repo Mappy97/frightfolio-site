@@ -9,6 +9,14 @@
           {
             "/": "/u/*",
             "comment": "A profile link, frightfolio.app/u/#username"
+          },
+          {
+            "/": "/i/*",
+            "comment": "An invite link, frightfolio.app/i/#username"
+          },
+          {
+            "/": "/t/*",
+            "comment": "A taste comparison link, frightfolio.app/t/#username"
           }
         ]
       }
